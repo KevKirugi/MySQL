@@ -12,6 +12,7 @@ The MySQL World sample database provides a realistic schema of global demographi
 
 - **country**  
   – Code (PK), Name, Continent, Population, LifeExpectancy
+![image](https://github.com/user-attachments/assets/ffc1a1f5-71e5-46cd-9b38-e51475140f33)
 
 - **city**  
   – ID (PK), Name, CountryCode (FK), District, Population
